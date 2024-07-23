@@ -2,6 +2,7 @@
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
+  border: 3px solid black;
 }
 
 .transactions-table-header {
