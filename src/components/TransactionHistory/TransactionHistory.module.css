@@ -1,27 +1,29 @@
 .transactions-table {
-  width: 100%;
+  width: 900px;
   border-collapse: collapse;
   margin: 20px 0;
   border: 3px solid black;
 }
 
 .transactions-table-header {
-  background: mediumslateblue;
+  font-size: 20px;
   text-align: center;
-  padding: 10px;
   font-weight: bold;
-  border: 1px solid whitesmoke;
+  padding: 10px;
+  border: 1px solid black;
+  background: lightskyblue;
 }
 
 .transactions-table-data {
+  font-size: 20px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid black;
   text-align: center;
   text-transform: capitalize;
   color: black;
-  background: whitesmoke;
+  background: azure;
 }
 
 .transactions-table tr:hover {
-  background-color: #ddd;
+  background: azure;
 }

@@ -15,10 +15,10 @@ const Profile = ({
         <img className={css["avatar"]} src={image} alt="User avatar" />
         <p className={css["name"]}>{name}</p>
         <p className={css["tag"]}>
-          <FaPerson style={{ marginRight: "5px", color: "mediumslateblue" }} />@{tag}
+          <FaPerson className={css["FaPerson"]} />@{tag}
         </p>
         <p className={css["location"]}>
-          <FaMapLocationDot style={{ marginRight: "5px", color: "mediumslateblue"}} />
+          <FaMapLocationDot className={css["FaMapLocationDot"]} />
           {location}
         </p>
       </div>

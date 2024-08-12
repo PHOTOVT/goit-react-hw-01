@@ -1,7 +1,3 @@
-body {
-  background: gray;
-}
-
 #root {
   display: flex;
   flex-direction: column;

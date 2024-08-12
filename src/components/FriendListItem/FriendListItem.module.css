@@ -1,7 +1,22 @@
+.avatar {
+  height: 100px;
+  width: 100px;
+}
+
+.name {
+  font-size: 20px;
+  color: black;
+}
+
+.statusIsOnline,
+.statusIsOffline {
+  font-size: 20px;
+}
+
 .statusIsOnline {
-  color: aquamarine;
+  color: teal;
 }
 
 .statusIsOffline {
-  color: crimson;
+  color: maroon;
 }
