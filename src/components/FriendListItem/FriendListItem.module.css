@@ -14,9 +14,9 @@
 }
 
 .statusIsOnline {
-  color: teal;
+  color: lightgreen;
 }
 
 .statusIsOffline {
-  color: maroon;
+  color: lightcoral;
 }

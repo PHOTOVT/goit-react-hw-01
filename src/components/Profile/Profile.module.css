@@ -7,9 +7,9 @@
   padding: 15px 0;
   width: 800px;
   height: 525px;
-  color: azure;
+  color: black;
   background: transparent;
-  border: 2px solid azure;
+  border: 2px solid black;
   border-radius: 20px;
 }
 
@@ -17,7 +17,7 @@
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: lightskyblue;
+  background: crimson;
   margin: 30px 0;
 }
 
@@ -32,7 +32,7 @@
 .FaPerson,
 .FaMapLocationDot {
   margin-right: 5px;
-  color: lightskyblue;
+  color: crimson;
 }
 
 .tag {
@@ -46,7 +46,7 @@
 .tag,
 .location {
   font-size: 20px;
-  color: azure;
+  color: black;
 }
 
 .user {
@@ -60,10 +60,9 @@
   margin-top: 0;
   padding: 0;
   width: 100%;
-  text-transform: uppercase;
   font-weight: 600;
-  color: black;
-  background: lightskyblue;
+  text-transform: uppercase;
+  color: crimson;
 }
 
 .stats-list-item {
